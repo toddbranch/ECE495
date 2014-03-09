@@ -38,12 +38,25 @@ want something for your room, you should get your own.
   - http://www.monoprice.com is a great site for cables
     / adapters.
 
-## Install Arch Linux
-
-Once you've got all your stuff, you should install a
-clean version of Arch Linux for ARM processors -
-available at
-http://archlinuxarm.org/platforms/armv6/raspberry-pi.
-
 ## Set Everything Up
 
+This picture should make setup a bit easier:
+
+![Raspberry Pi Components](res_pi_components.png)
+
+- Hook up your HDMI cable (and adapter if necessary) to your monitor
+- Plug in your USB keyboard (and mouse if you want, but we won't need it for a while)
+- Plug in a working Ethernet cable
+- Insert your SD card
+- Attach your MicroUSB power supply (this will power it up!)
+
+If you got the bundle, the pre-installed software on your SD card is called [NOOBS](http://www.raspberrypi.org/archives/tag/noobs).
+
+If you didn't get the bundle, you'll need to install an operating system before you see anything on the screen.
+
+## Install Arch Linux
+
+Install Arch Linux - you can do this either through NOOBS or get the image directly and write it to your SD card.  It's available at:
+http://archlinuxarm.org/platforms/armv6/raspberry-pi.
+
+## Logging In
