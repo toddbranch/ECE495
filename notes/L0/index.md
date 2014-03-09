@@ -42,7 +42,7 @@ want something for your room, you should get your own.
 
 This picture should make setup a bit easier:
 
-![Raspberry Pi Components](res_pi_components.png)
+![Raspberry Pi Components](ras_pi_components.png)
 
 - Hook up your HDMI cable (and adapter if necessary) to your monitor
 - Plug in your USB keyboard (and mouse if you want, but we won't need it for a while)
