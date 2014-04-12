@@ -1,0 +1,2 @@
+vim installation features:
+http://www.drchip.org/astronaut/vim/vimfeat.html

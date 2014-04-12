@@ -1,0 +1,126 @@
+Course is about embracing the hacker ethos and becoming a hacker.  Intersperse Hack Days throughout.  Culmination of class is multi-lesson hackathon to create a cool project.
+
+Show fundamentals of hacker platform, then introduce interesting tools / topics / techniques.
+
+L1
+  shell
+  basic shell commands
+  create non-root account
+  linux dir structure
+  END: explore dir structure
+
+L2
+  get internet setup!
+  intro pacman
+  sudo setup
+  install first outside package (vim)
+  END: explore packages
+
+L3
+  vim!
+  focus on nav, editing, vim as a composable language
+  intro vundle
+  END: explore bundles
+
+L4
+  scripting intro
+  shell scripting basics
+    - #!
+    - chmod +x
+  redirection, piping
+  END: explore scripting
+
+L5
+  configuration!
+    .vimrc
+    .bashrc
+  man
+
+L6
+  tmux
+    sucks that we can't do multiple things at the same time!
+    let's fix that!
+
+L7 / L8
+  this is lightweight and flexible, but we still can't browse the web!
+  we need a windowing system!
+  get X going
+  get i3 going
+    learn about configs, plugins, etc
+  get browser
+  ok, now we're good to go!
+
+L9
+  a scripting language! (python)
+  REPL, some basics
+  write script (emphasize similarities w/shell scripting)
+
+L10
+  build python toolchain!
+    this dev environment sucks - we want autocomplete and docs!
+  bundle jedi-vim
+    it doesn't work!  WTF?
+  install jedi
+    still doesn't work!  WTF!
+  :version
+    we don't have python extensions enabled
+  discuss limitations of pacman binaries
+  download vim source
+    need hg!
+    get hg
+  config, make, make install
+  works!
+
+L11
+  net programming exercise using python and our new toolchain (TBD)
+
+L12
+  something else in python - file ops and drawing seem cool
+
+L13
+  HACK DAY!
+  come in with something you want to explore in python and hack on it!
+  give ideas
+
+L14
+  a compiled language! (c)
+  first program
+  useful vim bundles
+  Makefile
+
+L15
+  using gdb to debug a simple program
+
+L16
+  sys programming with C
+  file ops, etc
+
+L17
+  shard dynamic libs
+  linking in libcurl or libGL
+
+L18
+  HACK DAY!
+  come in with something you want to explore in C and hack on it!
+  give ideas
+
+-----
+
+Ssh
+  Log into DFEC server!
+  Or just log into my computer (desktop I built)
+    Could manage permissions more easily
+You can have your own server!
+  Digital Ocean
+  Have them create it, log in, and set it up the way they want
+  would need to have open connection for this
+
+Cron jobs
+Setting up embedded toolchain
+Working with AUR
+Using open source
+  Configuring / compiling tools
+  More advanced git / github
+Databases and SQL
+nginx
+Web dev basics with node?

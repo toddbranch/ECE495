@@ -18,3 +18,17 @@ I'm going to show you what I know.
 ---
 
 I promise I won't bullshit you.
+
+---
+
+Slides:
+
+What's a hacker?
+
+We need hackers.
+
+Picture of Arch 
+  - (this is a hacker toolkit that has been developed over the past 40 years)
+  - I will show you what I know.
+
+Picture of morpheus (red / blue pill)
