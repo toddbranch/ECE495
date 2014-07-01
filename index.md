@@ -8,29 +8,29 @@ bug report or send me a pull request!](https://github.com/toddbranch/ECE495/issu
 | Lesson | Topic |
 | :-: | :-: |
 | [L0](/notes/L0/index.html) | Pre-Class Equipment Purchase and Setup |
-| L1 | |
-| L2 | |
-| L3 | |
-| L4 | |
-| L5 | |
-| L6 | |
-| L7 | |
-| L8 | |
-| L9 | |
-| L10 | |
-| L11 | |
-| L12 | |
-| L13 | |
-| L14 | |
-| L15 | |
-| L16 | |
-| L17 | |
-| L18 | |
-| L19 | |
-| L20 | |
-| L21 | |
-| L22 | |
-| L23 | |
+| L1 | The Shell |
+| L2 | Getting on the Web |
+| L3 | Pacman |
+| L4 | vim |
+| L5 | dotfiles |
+| L6 | vim Extensions |
+| L7 | tmux |
+| L8 | Shell Scripting 1 |
+| L9 | Shell Scripting 2 |
+| L10 | Python |
+| L11 | Building a Python Toolchain |
+| L12 | Practical Python (web) |
+| L13 | Practical Python (something else) |
+| L14 | HACK DAY |
+| L15 | C |
+| L16 | make |
+| L17 | gdb |
+| L18 | Practical C (systems) |
+| L19 | Practical C (libs) |
+| L20 | HACK DAY |
+| L21 | The X Window System |
+| L22 | Tiling Window Managers (i3) |
+| L23 | The Arch User Repository |
 | L24 | |
 | L25 | |
 | L26 | |
